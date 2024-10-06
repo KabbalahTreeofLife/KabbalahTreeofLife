@@ -10,9 +10,9 @@
  
  🔭 I’m currently **a student**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Python & Godot**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **A snail can sleep for three years**
 
  </div>
  
