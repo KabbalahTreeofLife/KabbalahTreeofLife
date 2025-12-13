@@ -11,8 +11,6 @@ I'm a 1st year college student from the Philippines.
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KabbalahTreeofLife?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://github.com/DenverCoder1/Simple-View-Counter">
          <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=KabbalahTreeofLife&style=for-the-badge"/></a>
-      <a href="mailto:atziluth70@gmail.com">
-    <img alt="email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/Mail-d14836?style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
    </p>
 
