@@ -1,48 +1,54 @@
-# 👨‍💻Kabbalah - Tree of Life
+# 🏛️ Kabbalah - Tree of Life
 
-**`College Student`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=1st+Year+College+Student;Aspiring+Software+Engineer;Based+in+the+Philippines" alt="Typing SVG" />
+</p>
 
-I'm a 1st year college student from the Philippines.  
-
-   <p align="center">
-      <a href="https://github.com/KabbalahTreeofLife?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KabbalahTreeofLife?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/KabbalahTreeofLife?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KabbalahTreeofLife?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-         <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=KabbalahTreeofLife&style=for-the-badge"/></a>
-  </a>
-   </p>
+<p align="center">
+  <a href="https://github.com/KabbalahTreeofLife?tab=followers">
+    <img alt="followers" src="https://img.shields.io/github/followers/KabbalahTreeofLife?color=b4befe&labelColor=313244&style=for-the-badge&logo=github&label=Followers"/></a>
+  <a href="https://github.com/KabbalahTreeofLife?tab=repositories&sort=stargazers">
+    <img alt="total stars" src="https://img.shields.io/github/stars/KabbalahTreeofLife?color=a6e3a1&style=for-the-badge&labelColor=313244&logo=star"/></a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🎓 About Me
+- 🔭 I’m currently a **1st Year College Student** from the 🇵🇭 **Philippines**.
+- 🌱 Learning the depths of **Computer Science** and **Game Development**.
+- ⚡ Fun fact: I use **Neovim** (btw).
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<br />
+---
 
-#
+### 🧰 Tech Stack & Tools
 
-### 📊 Stats
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Tools** | ![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=flat&logo=godot-engine&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
-<!-- ![Kabbalah's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabbalahtreeoflife&show_icons=true&theme=gruvbox) -->
+---
+
+### 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=KabbalahTreeofLife&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KabbalahTreeofLife&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KabbalahTreeofLife&show_icons=true&theme=gruvbox" alt="Kabbalah's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabbalahTreeofLife&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
-
-#
+<p align="center"> 
+  <i>"Seeking knowledge from the roots to the branches."</i>
+</p>
