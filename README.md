@@ -1,7 +1,7 @@
 # 🏛️ Kabbalah - Tree of Life
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=1st+Year+College+Student;Aspiring+Software+Engineer;Based+in+the+Philippines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=2nd+Year+College+Student;Aspiring+Software+Engineer;Based+in+the+Philippines" alt="Typing SVG" />
 </p>
 
 <p align="center">
