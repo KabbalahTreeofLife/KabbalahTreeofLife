@@ -14,7 +14,7 @@
 ---
 
 ### 🎓 About Me
-- 🔭 I’m currently a **1st Year College Student** from the 🇵🇭 **Philippines**.
+- 🔭 I’m currently a **2nd Year College Student** from the 🇵🇭 **Philippines**.
 - 🌱 Learning the depths of **Computer Science** and **Game Development**.
 - ⚡ Fun fact: I use **Neovim** (btw).
 
