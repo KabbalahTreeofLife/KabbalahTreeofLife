@@ -1,38 +1,94 @@
-# 🏛️ Kabbalah - Tree of Life
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=2nd+Year+College+Student;Aspiring+Software+Engineer;Based+in+the+Philippines" alt="Typing SVG" />
-</p>
+<img src="tree-of-life.svg" width="300" alt="The Tree of Life" />
 
-<p align="center">
-  <a href="https://github.com/KabbalahTreeofLife?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/KabbalahTreeofLife?color=b4befe&labelColor=313244&style=for-the-badge&logo=github&label=Followers"/></a>
-  <a href="https://github.com/KabbalahTreeofLife?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://img.shields.io/github/stars/KabbalahTreeofLife?color=a6e3a1&style=for-the-badge&labelColor=313244&logo=star"/></a>
-</p>
+# 🌳 Kabbalah · Tree of Life
 
----
+**Marco Daniel S. Castillo**
+*student of the roots · builder of the branches*
 
-### 🎓 About Me
-- 🔭 I’m currently a **2nd Year College Student** from the 🇵🇭 **Philippines**.
-- 🌱 Learning the depths of **Computer Science** and **Game Development**.
-- ⚡ Fun fact: I use **Neovim** (btw).
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=CBA6F7&center=true&vCenter=true&width=640&lines=As+above%2C+so+below.;Ascending+from+Malkuth+toward+Keter.;Every+system+is+a+tree.+Every+tree+is+a+map.;Web+%C2%B7+Mobile+%C2%B7+Games;I+use+Neovim+(btw)" alt="Typing SVG" />
+<br>
+<a href="https://github.com/KabbalahTreeofLife?tab=followers">
+  <img alt="followers" src="https://img.shields.io/github/followers/KabbalahTreeofLife?color=cba6f7&labelColor=313244&style=for-the-badge&logo=github&label=Followers"/></a>
+<img alt="neovim btw" src="https://img.shields.io/badge/NEOVIM-BTW-a6e3a1?labelColor=313244&style=for-the-badge&logo=neovim&logoColor=a6e3a1"/>
+<img alt="from the philippines" src="https://img.shields.io/badge/MALKUTH-PHILIPPINES-89b4fa?labelColor=313244&style=for-the-badge"/>
+
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 𓂀 I · The Premise
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.dot.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Backend & DB** | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
-| **Tools** | ![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=flat&logo=godot-engine&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+> *Roots drink in the dark long before the branches ever see light.*
+
+I am a **second-year student** in the 🇵🇭 **Philippines**, studying Software Engineering from the ground up. My handle is not a flex. It is a doctrine:
+
+**depth before height.** Fundamentals before frameworks. Yesod before Keter.
+
+In Kabbalah the Tree of Life is a map of how the infinite becomes the finite, descending through ten emanations into the world we can touch. Software is the same descent: an idea, an architecture, a function, a pixel. I am trying to climb that path in the other direction, **from the kingdom back toward the crown**, one understood layer at a time.
+
+- 🔭 **Now:** looking up, building [Centralian Skywatch](https://github.com/KabbalahTreeofLife/Centralian_Skywatch)
+- 🎮 **Studying:** worlds and the rules that govern them, through Godot and object-oriented design
+- 🗺️ **Drawn to:** anything with a map, a graph, or something moving on screen. Every path is a story.
+- ⚡ **Confession:** I use Neovim (btw). Even my editor is a ritual of modes.
 
 ---
 
-### 📊 GitHub Analytics
+### 🕯️ II · The Work: Three Paths on the Tree
 
-<table align="center">
+The Tree has ten spheres, but it is the **twenty-two paths between them** that hold the teaching. These are mine.
+
+| Path | The question it asks | The vessel |
+| :--- | :--- | :--- |
+| 🛰️ **[Centralian Skywatch](https://github.com/KabbalahTreeofLife/Centralian_Skywatch)**<br>*the gaze upward* | *What is above us, and can we watch it move?* NASA's picture of the day, rocket launches, and the live position of the ISS. Favorites and notes outlast every restart. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 🔭 **[Overseer](https://github.com/KabbalahTreeofLife/Overseer)**<br>*the search for Da'at* | *How do ideas descend from one another?* A niche academic search engine across OpenAlex, Semantic Scholar, and arXiv, with a citation graph where knowledge is shown as a living web. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![D3](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white) |
+| 🧭 **[U-Nav](https://github.com/KabbalahTreeofLife/U-Nav)**<br>*the walker of paths* | *Where am I, and how do I get there?* Campus navigation in 3D and 2D with pathfinding, a crowd heat map, events, and a dining guide. | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+
+---
+
+### 🌌 III · The Ten Spheres (My Stack)
+
+I read my toolbox as a Tree: grounded at the bottom, reaching at the top.
+
+| Sephirah | Meaning | In my practice |
+| :--- | :--- | :--- |
+| **Keter** · כתר<br>*Crown* | The unreachable source | *Still ahead. The reason I keep learning.* |
+| **Chokmah** · חכמה<br>*Wisdom* | The spark of the idea | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) game worlds and their rules |
+| **Binah** · בינה<br>*Understanding* | The idea given form | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) the fundamentals, in OOP |
+| **Da'at** · דעת<br>*Knowledge* | The hidden sphere | The thing I chase in every project. Overseer is its shrine. |
+| **Chesed** · חסד<br>*Mercy* | Openness, expansion | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) one codebase, many hands |
+| **Gevurah** · גבורה<br>*Severity* | Limits, discipline | ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) servers, schemas, and strict structure |
+| **Tiferet** · תפארת<br>*Beauty* | Harmony of opposites | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Netzach** · נצח<br>*Endurance* | Persistence | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) the daily ritual |
+| **Hod** · הוד<br>*Splendor* | Language, logic | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Yesod** · יסוד<br>*Foundation* | What everything rests on | ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) data, the memory of every system |
+| **Malkuth** · מלכות<br>*Kingdom* | The world that can be touched | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) shipped, deployed, real |
+
+---
+
+### 📜 IV · The Descent Is Not the Point
+
+```
+   The Tree is usually drawn from the top down,
+   as creation flowing into the world.
+
+   But the practitioner walks it from the bottom up.
+
+   Malkuth  →  Yesod  →  Hod  →  Netzach  →  Tiferet  →  ...
+
+   Ship something real.      Learn it deeply.      Then ask what lies above it.
+```
+
+I do not think of learning as collecting tools. I think of it as **ascent**: you do not skip a sphere, and what you cannot explain, you do not yet own.
+
+---
+
+### 👁️ V · The Observatory (GitHub Analytics)
+
+<div align="center">
+
+<table>
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=KabbalahTreeofLife&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
@@ -43,12 +99,14 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabbalahTreeofLife&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=KabbalahTreeofLife&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<p align="center"> 
+<p align="center">
   <i>"Seeking knowledge from the roots to the branches."</i>
+  <br><br>
+  ✦ &nbsp; <b>Ein Sof</b> &nbsp; · &nbsp; <i>without end</i> &nbsp; ✦
 </p>
