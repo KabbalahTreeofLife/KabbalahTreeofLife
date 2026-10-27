@@ -5,6 +5,7 @@
 # 🌳 Kabbalah · Tree of Life
 
 **Marco Daniel S. Castillo**
+<br>
 *student of the roots · builder of the branches*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=CBA6F7&center=true&vCenter=true&width=640&lines=As+above%2C+so+below.;Ascending+from+Malkuth+toward+Keter.;Every+system+is+a+tree.+Every+tree+is+a+map.;Web+%C2%B7+Mobile+%C2%B7+Games;I+use+Neovim+(btw)" alt="Typing SVG" />
